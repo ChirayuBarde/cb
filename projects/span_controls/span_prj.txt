@@ -1,0 +1,6 @@
+1: 12.6V BMU for Atos using Atmega328P
+2: Design(Hardware,PCB & firmware) & Alpha Version production of Faber Kitchen Chimney Control Panel
+3: Firmware for RS232 to RS485
+4: PCB Design for Serial to RF CC1101(Proteus)
+5: PCB Design for 3 Phase 12V 1A(Proteus)
+6: PCB Design for 12V 750mA 
